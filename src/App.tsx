@@ -1,7 +1,5 @@
 const App = () => {
-  const heading = "BMI Calculator";
-
-  return <></>;
+  return <div></div>;
 };
 
 export default App;
