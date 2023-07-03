@@ -1,13 +1,7 @@
-import Card from "./Components/Card";
-
 const App = () => {
-  return (
-    <>
-      <Card>
-        <h1>Hello World!</h1>
-      </Card>
-    </>
-  );
+  const heading = "BMI Calculator";
+
+  return <></>;
 };
 
 export default App;
