@@ -1,5 +1,10 @@
+import BMICalculator from "./Components/BMICalculator";
 const App = () => {
-  return <div></div>;
+  return (
+    <div>
+      <BMICalculator />
+    </div>
+  );
 };
 
 export default App;
